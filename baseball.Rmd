@@ -1,0 +1,29 @@
+##Baseball App Instructions
+
+#Summary
+This app will show a chosen statistic, for a chosen team, over the time period that a team has existed. The app is completely reactive, so the only interaction necessary is picking from the two combo boxes.  The teams are listed by their 3 letter abbreviation.  The abbreviations for the stats are as follows:
+
+RS - Runs Scored
+
+RA - Runs Allowed
+
+W - Wins
+
+OBP - On-Base Percentage
+
+SLG - Slugging Percentage
+
+BA - Batting Average
+
+Playoffs - 0 if no playoffs, 1 if playoffs
+
+RankSeason - Ranking if the team was a top performer
+
+RankPlayoffs - Rank a team finished in the playoffs
+
+G - Regular Season Games Played
+
+OOBP - Opponent's On-Base Percentage
+
+OSLG - Opponent's Slugging Percentage
+
